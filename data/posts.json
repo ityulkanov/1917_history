@@ -14,5 +14,13 @@
         "excerpt": "1965 год",
         "image": "img/polonskaya.png",
         "slug": "post2"
+    },
+    {
+        "id": 3,
+        "title": "Плакке Александр Карлович. Воспоминания о революции 1917",
+        "date": "April 15, 2025",
+        "excerpt": "1964год",
+        "image": "img/plakke.png",
+        "slug": "post3"
     }
 ]
