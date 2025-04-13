@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with GitHub Pages",
+        "date": "April 10, 2025",
+        "excerpt": "Learn how to set up your own website using GitHub Pages in just a few simple steps.",
+        "image": "https://picsum.photos/id/0/600/400",
+        "slug": "post1"
+    },
+    {
+        "id": 2,
+        "title": "Essential CSS Tricks Every Developer Should Know",
+        "date": "April 8, 2025",
+        "excerpt": "Improve your CSS skills with these essential techniques that will make your websites look more professional.",
+        "image": "https://picsum.photos/id/1/600/400",
+        "slug": "post2"
+    },
+    {
+        "id": 3,
+        "title": "The Power of JavaScript Async/Await",
+        "date": "April 5, 2025",
+        "excerpt": "Simplify your asynchronous code with JavaScript's async/await syntax for cleaner and more readable code.",
+        "image": "https://picsum.photos/id/2/600/400",
+        "slug": "post3"
+    }
+]
