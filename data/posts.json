@@ -1,26 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Getting Started with GitHub Pages",
-        "date": "April 10, 2025",
-        "excerpt": "Learn how to set up your own website using GitHub Pages in just a few simple steps.",
-        "image": "https://picsum.photos/id/0/600/400",
+        "title": "Денике Юрий Петрович. Воспоминания о революции 1917 года.",
+        "date": "April 13, 2025",
+        "excerpt": "Денике Юрий Петрович - социолог, публицист, видный политический деятель русской эмиграции. \nВ 1905 окончил Казанскую гимназию. Поступил на историческое отделение Историко-филологического факультета Московского университета. На последнем курсе вернулся в Казань, и окончил Казанский университет в 1915 году. Принимал активное участие в революции 1917 года, был секретарем меньшевистской газеты \"Известия Казанского Совета\". \nС 1922 года в эмиграции.",
+        "image": "../img/denike.png",
         "slug": "post1"
-    },
-    {
-        "id": 2,
-        "title": "Essential CSS Tricks Every Developer Should Know",
-        "date": "April 8, 2025",
-        "excerpt": "Improve your CSS skills with these essential techniques that will make your websites look more professional.",
-        "image": "https://picsum.photos/id/1/600/400",
-        "slug": "post2"
-    },
-    {
-        "id": 3,
-        "title": "The Power of JavaScript Async/Await",
-        "date": "April 5, 2025",
-        "excerpt": "Simplify your asynchronous code with JavaScript's async/await syntax for cleaner and more readable code.",
-        "image": "https://picsum.photos/id/2/600/400",
-        "slug": "post3"
     }
 ]
