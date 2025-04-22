@@ -78,5 +78,14 @@
     "excerpt": "",
     "image": "img/lauris.png",
     "slug": "post10"
+  },
+  {
+    "id": 11,
+    "title": "Воспоминания о революции 1917 года. Ларетей Генрих Гансович.",
+    "date": "April 22, 2025",
+    "excerpt": "",
+    "image": "img/laterey.png",
+    "slug": "post11"
   }
+  
 ]
