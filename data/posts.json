@@ -86,6 +86,14 @@
     "excerpt": "",
     "image": "img/laterey.png",
     "slug": "post11"
+  },
+  {
+    "id": 12,
+    "title": "Воспоминания о революции 1917 года. Курес Вольдемар.",
+    "date": "April 24, 2025",
+    "excerpt": "",
+    "image": "img/kures.png",
+    "slug": "post12"
   }
   
 ]
