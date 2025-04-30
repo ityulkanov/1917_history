@@ -12,7 +12,7 @@ sitemap = `<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="
 data.forEach(post => {
   sitemap += `  <url>\n`;
   sitemap += `    <loc>${baseUrl}/${post.slug}.html</loc>\n`;
-  sitemap += `    <lastmod>${new Date(post.date).toISOString().split('T')[0]}</lastmod>\n`;
+  sitemap += `    <lastmod>2024-01-22T00:00:00+01:00</lastmod>\n`;
   // sitemap += `    <changefreq>monthly</changefreq>\n`;
   // sitemap += `    <priority>0.8</priority>\n`;
   sitemap += `  </url>\n`;
