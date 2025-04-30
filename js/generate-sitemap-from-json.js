@@ -13,8 +13,8 @@ data.forEach(post => {
   sitemap += `  <url>\n`;
   sitemap += `    <loc>${baseUrl}/${post.slug}.html</loc>\n`;
   sitemap += `    <lastmod>${new Date(post.date).toISOString().split('T')[0]}</lastmod>\n`;
-  sitemap += `    <changefreq>monthly</changefreq>\n`;
-  sitemap += `    <priority>0.8</priority>\n`;
+  // sitemap += `    <changefreq>monthly</changefreq>\n`;
+  // sitemap += `    <priority>0.8</priority>\n`;
   sitemap += `  </url>\n`;
 });
 
