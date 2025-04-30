@@ -4,7 +4,7 @@ const path = require('path');
 // Load your JSON data
 const data = require('../data/posts.json'); // Replace with actual path if needed
 
-const baseUrl = 'https://ityulkanov.github.io/1917_history/'; // Change to your actual domain
+const baseUrl = 'https://ityulkanov.github.io/1917_history'; // Change to your actual domain
 const outputPath = path.join(__dirname, '../sitemap.xml');
 
 let sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n`;
